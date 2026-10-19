@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <title>وب من</title>
+
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            background: linear-gradient(120deg, #f5c36a, #f7a96b);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: Arial;
+            direction: rtl;
+        }
+
+        .box {
+            width: 300px;
+            background-color: white;
+            padding: 35px;
+            border-radius: 20px;
+            text-align: center;
+        }
+
+        h2 {
+            color: #d97945;
+            margin-bottom: 25px;
+        }
+
+        input {
+            width: 90%;
+            padding: 12px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            text-align: right;
+        }
+
+        button {
+            margin-top: 25px;
+            padding: 12px 25px;
+            background-color: #45b978;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #35a866;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="box">
+
+        <h2>به وب من خوش آمدید</h2>
+
+        <input type="text" placeholder="نام خود را وارد کنید">
+
+        <br>
+
+        <button>ورود به وب</button>
+
+    </div>
+
+</body>
+</html>
