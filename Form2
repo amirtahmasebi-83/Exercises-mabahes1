@@ -1,0 +1,25 @@
+<html>
+<body>
+<form>
+Name:
+<input type="text">
+<br><br>
+Family:
+<input type="text">
+<br><br>
+Phone:
+<input type="text">
+<br><br>
+City:
+<select>
+    <option>Tehran</option>
+    <option>Shiraz</option>
+    <option>Isfahan</option>
+    <option>Mashhad</option>
+    <option>Tabriz</option>
+</select>
+<br><br>
+<input type="submit" value="Next">
+</form>
+</body>
+</html>
