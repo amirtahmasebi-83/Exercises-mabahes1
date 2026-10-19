@@ -1,0 +1,19 @@
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>Family</th>
+        <th>Age</th>
+    </tr>
+
+    <tr>
+        <td>Sara</td>
+        <td>Mohammadi</td>
+        <td>25</td>
+    </tr>
+
+    <tr>
+        <td>Dara</td>
+        <td>Akbari</td>
+        <td>20</td>
+    </tr>
+</table>
