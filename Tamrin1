@@ -1,0 +1,13 @@
+<?php
+
+$student = array(
+    "name" => "Amir",
+    "age" => 20,
+    "field" => "Computer"
+);
+
+echo $student["name"] . "<br>";
+echo $student["age"] . "<br>";
+echo $student["field"];
+
+?>
